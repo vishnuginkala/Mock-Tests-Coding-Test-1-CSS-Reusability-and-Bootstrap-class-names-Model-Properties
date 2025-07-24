@@ -1,0 +1,1 @@
+# Mock-Tests-Coding-Test-1-CSS-Reusability-and-Bootstrap-class-names-Model-Properties
